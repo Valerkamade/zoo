@@ -1,0 +1,11 @@
+:root {
+  /* Цвета */
+  --color-error: #FF0000;
+  --color-placeholder: #c4c4c4;
+  --accent-color: #006455;
+  --bg-color: #F5F9F8;
+  --border-color: #D1E5E0;
+  --text-primary: #2A3F3B;
+  --overlay: #2A3F3BF8;
+  --hover-accent: #00886B;
+}

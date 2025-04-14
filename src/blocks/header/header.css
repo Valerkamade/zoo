@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  width: 100%;
+
+  box-sizing: border-box;
+  border-bottom: 1px solid var(--accent-color);
+  padding: 28px 0 26px 27px;
+
+  flex-shrink: 0;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (min-width: 880px) {
+  .header {
+    padding: 45px 40px 39px 40px;
+  }
+}

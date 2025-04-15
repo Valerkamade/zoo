@@ -1,7 +1,7 @@
 .footer__copyright {
   color: var(--text-primary);
   margin: 0 auto;
-  padding: 0 19px 36px;
+  padding: 0 19px 60px;
 }
 
 @media (min-width: 880px) {
